@@ -7,7 +7,7 @@ DEFAULT_LANG = 'ja'
 
 # account
 ADMIN_ACCOUNT = "mintwinsr@lwbottest"
-DOMAIN_ID = 0
+DOMAIN_ID = 153856
 
 # api
 API_ID = "kr1QrSGeTxomo"
@@ -20,8 +20,8 @@ SECRET_KEY_NAME = "private_20191226192554.key"
 LOCAL_ADDRESS = "https://faqbot08.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-54-204-39-43.compute-1.amazonaws.com"
-DB_NAME = "d6ep353btpm4u1"
-DB_USER = "zlpqpfctudpoxj"
+DB_HOST = "ec2-54-221-198-156.compute-1.amazonaws.com"
+DB_NAME = "d3c5i798gfqsg3"
+DB_USER = "oxpjrtyebfrbfw"
 DB_PORT = "5432"
-DB_PASSWORD = "caaa366cf18416db9877c8a2700494fc1ed024211f2590adb28834b693af2c5b"
+DB_PASSWORD = "33479ce31ac5f026f18fa1540d72e8b4ce1a3edfb67b57cd904aad44dac93cb5"
